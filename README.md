@@ -3,7 +3,6 @@
 ## Overview
 
 This project is an implementation of the classic "Simon" game using a BeagleBone Black (BBB) embedded system. Players must replicate an increasingly complex sequence of colored lights, with the game providing auditory and visual feedback. The project emphasizes concurrent programming, GPIO management, and analog/digital I/O integration.
-
 ## Features
 
 - **Game Logic**:
